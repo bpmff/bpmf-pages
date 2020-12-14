@@ -1,0 +1,36 @@
+{
+  "name": "bpmf-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "bpmf-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/bpmff/bpmf-pages#readme",
+  "bugs": {
+    "url": "https://github.com/bpmff/bpmf-pages/issues"
+  },
+  "license": "MIT",
+  "author": "bpmf <1416288357@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpmff/bpmf-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
